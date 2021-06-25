@@ -1,0 +1,14 @@
+{
+    "notifications": 0,
+    "lk": 0,
+    "yt_api": "",
+    "dc_api": "",
+    "channels": [0, 1, 2],
+    "reddit": {
+        "user_agent": "",
+        "client_id": "",
+        "client_secret": "",
+        "username": "",
+        "password": ""
+    }
+}

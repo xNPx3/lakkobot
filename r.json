@@ -1,0 +1,21 @@
+{
+    "kind": "youtube#activityListResponse",
+    "etag": "XhgC3nNa6FebmVksQgvsBbk6cH8",
+    "items": [
+        {
+            "kind": "youtube#activity",
+            "etag": "SMd8y7e-qj8rJ_bo5IEvhsZJKec",
+            "id": "MTUxNjI0NTI1MjMwMTYyNDUyNTIzMDAwMDU2Nw",
+            "contentDetails": {
+                "upload": {
+                    "videoId": "lZMTDYxTZu8"
+                }
+            }
+        }
+    ],
+    "nextPageToken": "CAEQAA",
+    "pageInfo": {
+        "totalResults": 12,
+        "resultsPerPage": 1
+    }
+}
